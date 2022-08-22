@@ -2,9 +2,9 @@
 
 I'm WM, a trainee coder.
 
-- 🔭 A PhD student from AETAS_BIT  
+- 🔭 AETAS_BIT  
 - 📫 Laboratory website✨http://www.aetasbit.com/✨   
-- ⚡ Fun fact: an OWer&MHRer
+- ⚡ Fun fact: OW&Football
 
 <!--
 **Ray-WM/Ray-WM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
