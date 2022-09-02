@@ -3,7 +3,7 @@
 I'm WM, a trainee coder.
 
 - 🔭 AETAS_BIT  
-- 📫 Laboratory website✨http://www.aetasbit.com/✨   
+- 📫 Laboratory website✨ http://www.aetasbit.com/ ✨   
 - ⚡ Fun fact: OW&Football
 
 <!--
