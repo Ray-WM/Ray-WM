@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm WM, a trainee coder.
+
 
 - 🔭 AETAS_BIT  
 - 📫 Laboratory website✨ http://www.aetasbit.com/ ✨   
